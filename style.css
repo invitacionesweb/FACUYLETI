@@ -156,8 +156,6 @@ audio::-webkit-media-controls-current-time-display {
 a {
   color: inherit;        /* Usa el color del texto del contenedor */
   text-decoration: none; /* Quita el subrayado */
-  pointer-events: none;  /* Hace que no sea clickeable (opcional) */
-  cursor: default;       /* Evita que parezca un link */
 }
 
 /*MAIN */
